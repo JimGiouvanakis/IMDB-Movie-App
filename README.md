@@ -11,5 +11,5 @@ A simple movie app that fetches and displays movie data using the IMDb API.
 
 ## Technologies Used 
 
-SwiftUI
-IMDb API
+- SwiftUI
+- IMDb API
